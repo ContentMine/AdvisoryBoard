@@ -34,8 +34,8 @@ We therefore ask a minimum of around two days time commitment from each board me
 Advisory members may be contacted on an ad hoc basis either individually or 
 collectively regarding specific concerns but we expect communication to involve:
 
-* Monthly Skype Calls - all welcome to attend if possible.
-* Quarterly Skype Calls - all to attend.
+* Monthly Skype Calls - all welcome to attend if possible [iCal] (https://www.google.com/calendar/ical/f52br0te3h8pdlrb6onet8mri4%40group.calendar.google.com/public/basic.ics)
+* Quarterly Skype Calls - all to attend. Doodle poll will be distributed after each meeting and calendar feed updated.
 * Annual in-person board meeting - details TBC
 
 Jenny Molloy will chair the Advisory Board meetings and act as the main point of contact.
