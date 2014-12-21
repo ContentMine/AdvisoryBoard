@@ -11,7 +11,7 @@
 
 ## Meeting Minutes
 
-* [17 Dec 2014] 
+* [17 Dec 2014] (https://github.com/ContentMine/AdvisoryBoard/blob/master/Minutes/17Dec2014.md)
 
 ## Role Description
 
