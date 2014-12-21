@@ -23,7 +23,7 @@ The Advisory Board is primarily convened to provide advice and comment on:
 4. Strategic partnerships, outreach and advocacy activities.
 5. Barriers and organisational or external problems.
 6. Governance matters.
-7. Lehal matters e.g. Intellectual property rights.
+7. Legal matters e.g. Intellectual property rights.
 
 The role involves attending Advisory Board meetings at least quarterly and optionally monthly in 
 addition to an in-person meeting and occasional email responses. 
