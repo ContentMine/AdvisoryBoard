@@ -8,6 +8,7 @@
 * Joe MacArthur
 * Puneet Kishor
 * Charles Oppenheim
+* Cameron Neylon
 
 ## Meeting Minutes
 
